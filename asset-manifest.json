@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/tatianaborda/CSSGradientGenerator/static/css/main.84629fef.chunk.css",
+    "main.js": "/tatianaborda/CSSGradientGenerator/static/js/main.ae1905d8.chunk.js",
+    "main.js.map": "/tatianaborda/CSSGradientGenerator/static/js/main.ae1905d8.chunk.js.map",
+    "runtime-main.js": "/tatianaborda/CSSGradientGenerator/static/js/runtime-main.91e94dda.js",
+    "runtime-main.js.map": "/tatianaborda/CSSGradientGenerator/static/js/runtime-main.91e94dda.js.map",
+    "static/css/2.dbfce880.chunk.css": "/tatianaborda/CSSGradientGenerator/static/css/2.dbfce880.chunk.css",
+    "static/js/2.59695931.chunk.js": "/tatianaborda/CSSGradientGenerator/static/js/2.59695931.chunk.js",
+    "static/js/2.59695931.chunk.js.map": "/tatianaborda/CSSGradientGenerator/static/js/2.59695931.chunk.js.map",
+    "index.html": "/tatianaborda/CSSGradientGenerator/index.html",
+    "static/css/2.dbfce880.chunk.css.map": "/tatianaborda/CSSGradientGenerator/static/css/2.dbfce880.chunk.css.map",
+    "static/css/main.84629fef.chunk.css.map": "/tatianaborda/CSSGradientGenerator/static/css/main.84629fef.chunk.css.map",
+    "static/js/2.59695931.chunk.js.LICENSE.txt": "/tatianaborda/CSSGradientGenerator/static/js/2.59695931.chunk.js.LICENSE.txt",
+    "static/media/circle.2d1fe328.svg": "/tatianaborda/CSSGradientGenerator/static/media/circle.2d1fe328.svg",
+    "static/media/diagonalDownLeft.d1f63a1e.svg": "/tatianaborda/CSSGradientGenerator/static/media/diagonalDownLeft.d1f63a1e.svg",
+    "static/media/diagonalDownRight.afbafbef.svg": "/tatianaborda/CSSGradientGenerator/static/media/diagonalDownRight.afbafbef.svg",
+    "static/media/diagonalTopLeft.4b786a08.svg": "/tatianaborda/CSSGradientGenerator/static/media/diagonalTopLeft.4b786a08.svg",
+    "static/media/diagonalTopRight.26acd623.svg": "/tatianaborda/CSSGradientGenerator/static/media/diagonalTopRight.26acd623.svg",
+    "static/media/down.f45fcd36.svg": "/tatianaborda/CSSGradientGenerator/static/media/down.f45fcd36.svg",
+    "static/media/left.8dc4bc38.svg": "/tatianaborda/CSSGradientGenerator/static/media/left.8dc4bc38.svg",
+    "static/media/right.0747351e.svg": "/tatianaborda/CSSGradientGenerator/static/media/right.0747351e.svg",
+    "static/media/up.5a859ece.svg": "/tatianaborda/CSSGradientGenerator/static/media/up.5a859ece.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91e94dda.js",
+    "static/css/2.dbfce880.chunk.css",
+    "static/js/2.59695931.chunk.js",
+    "static/css/main.84629fef.chunk.css",
+    "static/js/main.ae1905d8.chunk.js"
+  ]
+}
