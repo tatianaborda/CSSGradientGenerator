@@ -1,0 +1,48 @@
+.main-container{
+    display: flex;
+    height: 100%;
+}
+.Icon{
+    width: 20px;
+    height: 20px;
+}
+.title-container{
+    margin: 10px;
+  }
+.buttons{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.button-container{
+   justify-content: center;
+   align-content: center;
+}  
+.title{
+  font-size: 20px;
+  font-weight: 600;
+}
+.color-input{
+    border-style:solid;
+    width: 70px;
+    height: 40px;
+    border-radius: 5px;
+}
+.title{
+    font-size: 20px;
+    font-weight: 600;
+}
+.flex-column{
+    height: 100%;
+    width: 400px;
+    display:flex;
+    background:cornsilk;
+  }
+  .title{
+    margin: 20px; 
+  }
+  .canva{
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
